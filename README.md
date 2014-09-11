@@ -40,7 +40,7 @@ link for basic gameplay instructions if you are unfamiliar with them.
 - To help indicate the number of remaining guesses, draw the hangman
   (or the representation of your choosing) on an HTML5 Canvas element.
 
-- Save a history of the games played to a database via a Rails JSON API.
+- Allow the user to input hints when they create the answer and let the user playing the game see these hints if they choose
 
 ## Part 2 - Build a to do app
 
